@@ -1,13 +1,9 @@
-# Advent of Code 2015
+# 2015
 
-https://adventofcode.com/2015
+[https://adventofcode.com/2023](https://adventofcode.com/2023)
 
-## Days
+## Solutions (organized by days)
 
-1. Not Quite Lisp [[part1](./solutions/day1/part1)][[part2](./solutions/day1/part2)]
-2. I Was Told There Would Be No Math - [[part1](./solutions/day2/part1)][[part2](./solutions/day2/part2)]
-3. Perfectly Spherical Houses in a Vacuum - [[part1](./solutions/day3/part1)][[part2](./solutions/day3/part1)]
-
-## Author
-
-- [Tjeu Foolen](https://github.com/tjeufoolen)
+1. Not Quite Lisp [[part1](./day1/part1)|[part2](./day1/part2)]
+2. I Was Told There Would Be No Math - [[part1](./day2/part1)|[part2](./day2/part2)]
+3. Perfectly Spherical Houses in a Vacuum - [[part1](./day3/part1)|[part2](./day3/part1)]
