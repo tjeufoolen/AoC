@@ -10,6 +10,7 @@ You don't need a computer science background to participate - just a little prog
 
 ## Solutions (organized by year)
 
+- [2024](./solutions/2024/README.md)
 - [2022](./solutions/2022/README.md)
 - [2021](./solutions/2021/README.md)
 - [2015](./solutions/2015/README.md)
